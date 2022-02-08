@@ -10,7 +10,7 @@ https://blog.naver.com/PostView.naver?blogId=hayanbom_&logNo=222082853696﻿
 Before you start, you need to download `loki_py_sims_rendering.py` file.
 
 1. Import `*.dae` in blender, which is exported from [TS4SimRipper](https://modthesims.info/d/635720/ts4-simripper-rip-sims-from-savegames-v2-3-3-2-uploaded-8-30-2020.html)
-2. In the `Script` Panel, open `loki_py_sims_rendering.py` 
+2. In the `Scripting` Panel, open `loki_py_sims_rendering.py` 
 3. Change the script's `object_name` value with the imported object's name.
    ie. "rig"
 4. Click button "Run"!
